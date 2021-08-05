@@ -1,0 +1,3 @@
+repositories { j center ()} 
+      dependencies { compile'com.novoda:download-manager:<Latest-version>}
+
